@@ -1,5 +1,8 @@
 # BasicHacking
+## Introduction
+<p align="center">Some simple applications have been hacked!!!
+
 ## Writeup
-## Lectures
-* [ ![alt text] Writeup for assignment](https://github.com/tsug0d/AndroidMobilePentest101/blob/master/english/AndroidMobilePentest101_Lecture1.pdf) 
-* [ ![alt text] Writeup for challenge](https://github.com/tsug0d/AndroidMobilePentest101/blob/master/english/AndroidMobilePentest101_Lecture2.pdf)
+All writeups have been divided into two PDFs:
+* [Writeup for assignment](https://github.com/ducdottoan2002/BasicHacking/blob/main/Writeup_for_assignment.pdf) 
+* [Writeup for challenge](https://github.com/ducdottoan2002/BasicHacking/blob/main/Writeup_for_challenge.pdf)
